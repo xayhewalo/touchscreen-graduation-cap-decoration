@@ -30,4 +30,5 @@ NOTES:
 4. The stand hinders access to the Raspberry Pi's ethernet port. Modify the design if this is a problem.
 
 ACKNOWLEDGEMENTS:
----HUGE shoutout to Sevile Mannickarottu and Dan Pak from the George H. Stephenson Foundation Undergraduate Laboratory at the University of Pennsylvania for allowing me the tools and resources to makes this project happen.
+
+HUGE shoutout to Sevile Mannickarottu and Dan Pak from the George H. Stephenson Foundation Undergraduate Laboratory at the University of Pennsylvania for allowing me the tools and resources to makes this project happen.
