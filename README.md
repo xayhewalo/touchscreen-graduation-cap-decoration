@@ -9,7 +9,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-I designed and 3D printed a stand for the 7" Raspberry Pi Touchscreen Monitor as a decoration for my graduation cap. Here is a album of the final results! [ALBUM COMING]
+I designed and 3D printed a stand for the 7" Raspberry Pi Touchscreen Monitor as a decoration for my graduation cap. Here is an album of the final results! [ALBUM COMING]
 
 The stand is made of PLA and was printed on a MakerBot Replicator 5. This repository includes the Solidworks assembly of the stand, graduation cap, monitor, Raspberry Pi, and other appropiate parts. STEP AP203 and STEP AP214 files of all the parts are included and .makerbot, .stl, and .thing files of the custom stand are included as well.
 
