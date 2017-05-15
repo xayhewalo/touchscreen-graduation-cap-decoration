@@ -20,10 +20,14 @@ Raspberry Pi 3 Model B by Mechatronics Arts[http://bit.ly/2r7Fq6m]. Fastner and 
 All 3D model files starting with "99" I did not make and credit is properly attributed above.
 
 NOTES:
----Please let me know if you use/modify this design!!! I would love to see how yours turns out.
----The bill of materials (BOM) lists velcro, epoxy, safety pins and elastic which are not shown in the the 3D models provided. In the images linked above, velcro is epoxied to the graduation cap and to the the bottom the stand. Velcro is how the stand stays attached to the cap. Obviously the monitor and stand cause the cap to tilt forward when worn. I counteracted this by attaching the part of the cap that rests on the back of the head to the collar of my shirt using two safety pins and a piece of elastic as shown in this photo [PHOTO TO COME].
----It's quite combersome to attach a USB cable to power the monitor. If you plan on using this design for your graudation cap, I would suggest modifying the base of the stand.
----The stand hinders access to the Raspberry Pi's ethernet port. Modify the design if this is a problem.
+
+1. Please let me know if you use/modify this design!!! I would love to see how yours turns out.
+
+2. The bill of materials (BOM) lists velcro, epoxy, safety pins and elastic which are not shown in the the 3D models provided. In the images linked above, velcro is epoxied to the graduation cap and to the the bottom the stand. Velcro is how the stand stays attached to the cap. Obviously the monitor and stand cause the cap to tilt forward when worn. I counteracted this by attaching the part of the cap that rests on the back of the head to the collar of my shirt using two safety pins and a piece of elastic as shown in this photo [PHOTO TO COME].
+
+3. It's quite combersome to attach a USB cable to power the monitor. If you plan on using this design for your graudation cap, I would suggest modifying the base of the stand.
+
+4. The stand hinders access to the Raspberry Pi's ethernet port. Modify the design if this is a problem.
 
 ACKNOWLEDGEMENTS:
 ---HUGE shoutout to Sevile Mannickarottu and Dan Pak from the George H. Stephenson Foundation Undergraduate Laboratory at the University of Pennsylvania for allowing me the tools and resources to makes this project happen.
