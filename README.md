@@ -9,7 +9,7 @@ You may redistribute and modify this documentation under the terms of the CERN O
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-I designed and 3D printed a stand for the 7" Raspberry Pi Touchscreen Monitor as a decoration for my graduation cap. Here is an album of the final results! [ALBUM COMING]
+I designed and 3D printed a stand for the 7" Raspberry Pi Touchscreen Monitor as a decoration for my graduation cap. Here is an album of the final results! [https://imgur.com/gallery/rAW6N]
 
 The stand is made of PLA and was printed on a MakerBot Replicator 5. This repository includes the Solidworks assembly of the stand, graduation cap, monitor, Raspberry Pi, and other appropiate parts. STEP AP203 and STEP AP214 files of all the parts are included and .makerbot, .stl, and .thing files of the custom stand are included as well.
 
@@ -23,7 +23,7 @@ NOTES:
 
 1. Please let me know if you use/modify this design!!! I would love to see how yours turns out.
 
-2. The bill of materials (BOM) lists velcro, epoxy, safety pins and elastic which are not shown in the the 3D models provided. In the images linked above, velcro is epoxied to the graduation cap and to the the bottom the stand. Velcro is how the stand stays attached to the cap. Obviously the monitor and stand cause the cap to tilt forward when worn. I counteracted this by attaching the part of the cap that rests on the back of the head to the collar of my shirt using two safety pins and a piece of elastic as shown in this photo [PHOTO TO COME].
+2. The bill of materials (BOM) lists velcro, epoxy, safety pins and elastic which are not shown in the the 3D models provided. In the images linked above, velcro is epoxied to the graduation cap and to the the bottom the stand. Velcro is how the stand stays attached to the cap. Obviously the monitor and stand cause the cap to tilt forward when worn. I counteracted this by attaching the part of the cap that rests on the back of the head to the collar of my shirt using two safety pins and a piece of elastic as shown in this photo [http://i.imgur.com/7Yz5Q7B.jpg].
 
 3. It's quite combersome to attach a USB cable to power the monitor. If you plan on using this design for your graudation cap, I would suggest modifying the base of the stand.
 
